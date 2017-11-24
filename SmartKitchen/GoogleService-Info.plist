@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>755931588486-754flmdnaq6v00qoqd91j75v0egbusvh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.755931588486-754flmdnaq6v00qoqd91j75v0egbusvh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5hMZ3iQqMr9Vyx3wqt_ARBCuUqxZcmf8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>755931588486</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Star.SmartKitchen</string>
+	<key>PROJECT_ID</key>
+	<string>smartkitchen-82156</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smartkitchen-82156.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:755931588486:ios:cea480a8a6f22a4a</string>
+	<key>DATABASE_URL</key>
+	<string>https://smartkitchen-82156.firebaseio.com</string>
+</dict>
+</plist>
